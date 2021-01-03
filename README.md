@@ -6,4 +6,6 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://ipl-game11.herokuapp.com/_
 
+NOTE: I haven't created web pages. I am using codes from someone else git repositories just for web pages.
+
 
